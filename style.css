@@ -4,9 +4,9 @@
 :root{
     --cor-de-fundo: #f7a29e;
     --branco: #ffffff;
-    --amarelo:  #edf3b9;
+    --amarelo:  #000000;
     --roxo-degrade: #ffffff
-    linear-gradient(94.49deg,  #faeddf 35.48%,  #3b3f49 143.32%);
+    linear-gradient(94.49deg,  #000000 35.48%,  #3b3f49 143.32%);
 
 }
 body{
