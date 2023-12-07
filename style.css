@@ -2,10 +2,10 @@
 @import url(styles/grid.css);
 :root{
     --cor-de-fundo: #f7a29e;
-    --branco: #fdfaeb;
+    --branco: #f7a29e;
     --amarelo:  #f3c6b9;
-    --roxo-degrade: 
-    linear-gradient(94.49deg,  #faeddf 35.48%,  #3b3f49 143.32%);
+    --roxo-degrade: #f7a29e
+    linear-gradient(94.49deg,  #f7a29e 35.48%,  #3b3f49 143.32%);
 
 }
 body{
