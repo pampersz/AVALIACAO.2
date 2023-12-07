@@ -57,6 +57,18 @@
 .título__cabeçalho{
     display: none;
 }
+
+
+.secao_banner{
+    width: 24px;
+    height: 24px;
+}
+.livros{
+    width: 24px;
+    height: 24px;
+}
+
+
 @media screen and (min-width: 1024px) {
 .titulo__cabeçalho{
     font-size: 30px;
